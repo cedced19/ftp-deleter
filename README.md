@@ -3,7 +3,7 @@ A tool to delete old files on a ftp server (eg ipcam files).
 
 You have to setup `config.json` file:
 
-```
+```json
 {
     "path": "/Disque dur/Camera/",
     "server": {
@@ -16,7 +16,7 @@ You have to setup `config.json` file:
 ```
 
 
-```
+```bash
 npm i 
 npm start
 ```
