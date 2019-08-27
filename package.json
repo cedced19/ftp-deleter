@@ -1,0 +1,30 @@
+{
+    "name": "ftp-deleter",
+    "version": "0.0.0",
+    "description": "A tool to delete old files on a ftp server (eg ipcam files).",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cedced19/ftp-deleter.git"
+    },
+    "keywords": [
+        "tool",
+        "delete",
+        "file",
+        "ftp",
+        "remove"
+    ],
+    "author": "Cédric JUNG <cedced19@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cedced19/ftp-deleter/issues"
+    },
+    "homepage": "https://github.com/cedced19/ftp-deleter#readme",
+    "dependencies": {
+        "ftp": "^0.3.10",
+        "node-schedule": "^1.3.2"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "path": "/Disque dur/Camera/",
+    "server": {
+        "host": "mafreebox.freebox.fr",
+        "user": "anonymous",
+        "secure": false
+    },
+    "depth": 3
+}
